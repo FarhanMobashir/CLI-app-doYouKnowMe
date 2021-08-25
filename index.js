@@ -8,7 +8,7 @@ let score = 0;
 function play(question, answer) {
   var userAnswer = readlineSync.question(question);
   if (userAnswer.toLowerCase() === answer.toLowerCase()) {
-    console.log("Great ! You are right!");
+    console.log("Great! You are right! 😎");
     score = score + 1;
     console.log("-------👇👇👇👇------");
     console.log("Curent score --> ", score);
