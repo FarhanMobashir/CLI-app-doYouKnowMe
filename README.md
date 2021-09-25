@@ -4,9 +4,9 @@
 
 ### how to use
 
-- This app will props you question related to me (mobashir)
+- This app will prompts you question related to me (mobashir)
 - Answer them as you go through the question
-- Finally when the test ends your totla score will be shown
+- Finally when the test ends your total score will be shown
 
 ### Technologies used
 
