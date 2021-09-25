@@ -21,7 +21,7 @@ function play(question, answer) {
 
 const questions = [
   {
-    question: "Where do live ? ",
+    question: "Where do I live ? ",
     answer: "Gaya",
   },
   {
